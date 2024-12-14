@@ -1,0 +1,303 @@
+[
+    {
+        "cultivo": "Arroz",
+        "zona_climatica": "Zona Norte",
+        "meses_siembra": [
+            "Marzo",
+            "Abril",
+            "Mayo"
+        ],
+        "meses_cosecha": [
+            "Julio",
+            "Agosto",
+            "Septiembre"
+        ],
+        "requerimientos": "Riego constante, suelos inundables.",
+        "imagen": "imgs/arroz.svg"
+    },
+    {
+        "cultivo": "Plátano",
+        "zona_climatica": "Zona Norte",
+        "meses_siembra": [
+            "Enero",
+            "Febrero",
+            "Marzo"
+        ],
+        "meses_cosecha": [
+            "Octubre",
+            "Noviembre",
+            "Diciembre"
+        ],
+        "requerimientos": "Clima húmedo, protección contra vientos.",
+        "imagen": "imgs/banana.svg"
+    },
+    {
+        "cultivo": "Cebolla",
+        "zona_climatica": "Zona Sur",
+        "meses_siembra": [
+            "Octubre",
+            "Noviembre",
+            "Diciembre"
+        ],
+        "meses_cosecha": [
+            "Febrero",
+            "Marzo",
+            "Abril"
+        ],
+        "requerimientos": "Clima seco, suelos bien drenados.",
+        "imagen": "assets/images/cebolla.jpg"
+    },
+    {
+        "cultivo": "Yuca",
+        "zona_climatica": "Zona Norte",
+        "meses_siembra": [
+            "Enero",
+            "Febrero",
+            "Marzo"
+        ],
+        "meses_cosecha": [
+            "Septiembre",
+            "Octubre",
+            "Noviembre"
+        ],
+        "requerimientos": "Clima cálido, suelos bien drenados.",
+        "imagen": "assets/images/yuca.jpg"
+    },
+    {
+        "cultivo": "Mango",
+        "zona_climatica": "Zona Este",
+        "meses_siembra": [
+            "Enero",
+            "Febrero",
+            "Marzo"
+        ],
+        "meses_cosecha": [
+            "Mayo",
+            "Junio",
+            "Julio"
+        ],
+        "requerimientos": "Clima cálido, suelos bien drenados.",
+        "imagen": "assets/images/mango.jpg"
+    },
+    {
+        "cultivo": "Piña",
+        "zona_climatica": "Zona Este",
+        "meses_siembra": [
+            "Enero",
+            "Febrero",
+            "Marzo"
+        ],
+        "meses_cosecha": [
+            "Mayo",
+            "Junio",
+            "Julio"
+        ],
+        "requerimientos": "Clima cálido, suelos bien drenados.",
+        "imagen": "assets/images/pina.jpg"
+    },
+    {
+        "cultivo": "Caoba",
+        "zona_climatica": "Zona Este",
+        "meses_siembra": [
+            "Todo el año"
+        ],
+        "meses_cosecha": [
+            "Todo el año"
+        ],
+        "requerimientos": "Clima tropical, suelos ricos en nutrientes.",
+        "imagen": "assets/images/caoba.jpg"
+    },
+    {
+        "cultivo": "Caña de azúcar",
+        "zona_climatica": "Zona Este",
+        "meses_siembra": [
+            "Enero",
+            "Febrero",
+            "Marzo"
+        ],
+        "meses_cosecha": [
+            "Noviembre",
+            "Diciembre",
+            "Enero"
+        ],
+        "requerimientos": "Clima cálido, suelos fértiles, riego constante.",
+        "imagen": "assets/images/cana_de_azucar.jpg"
+    },
+    {
+        "cultivo": "Aguacate",
+        "zona_climatica": "Zona Sur",
+        "meses_siembra": [
+            "Marzo",
+            "Abril",
+            "Mayo"
+        ],
+        "meses_cosecha": [
+            "Septiembre",
+            "Octubre",
+            "Noviembre"
+        ],
+        "requerimientos": "Clima cálido, suelos bien drenados.",
+        "imagen": "assets/images/aguacate.jpg"
+    },
+    {
+        "cultivo": "Fresas",
+        "zona_climatica": "Zona Norte",
+        "meses_siembra": [
+            "Octubre",
+            "Noviembre",
+            "Diciembre"
+        ],
+        "meses_cosecha": [
+            "Marzo",
+            "Abril",
+            "Mayo"
+        ],
+        "requerimientos": "Clima templado, suelos ricos en materia orgánica.",
+        "imagen": "assets/images/fresas.jpg"
+    },
+    {
+        "cultivo": "Pargo (Pesca)",
+        "zona_climatica": "Zona Este",
+        "meses_siembra": [
+            "Todo el año"
+        ],
+        "meses_cosecha": [
+            "Todo el año"
+        ],
+        "requerimientos": "Pesca en zonas costeras.",
+        "imagen": "assets/images/pargo.jpg"
+    },
+    {
+        "cultivo": "Lechosa",
+        "zona_climatica": "Zona Este",
+        "meses_siembra": [
+            "Enero",
+            "Febrero",
+            "Marzo"
+        ],
+        "meses_cosecha": [
+            "Mayo",
+            "Junio",
+            "Julio"
+        ],
+        "requerimientos": "Clima cálido, suelos bien drenados.",
+        "imagen": "assets/images/lechosa.jpg"
+    },
+    {
+        "cultivo": "Tomate",
+        "zona_climatica": "Zona Sur",
+        "meses_siembra": [
+            "Enero",
+            "Febrero",
+            "Marzo",
+            "Abril"
+        ],
+        "meses_cosecha": [
+            "Mayo",
+            "Junio",
+            "Julio"
+        ],
+        "requerimientos": "Clima cálido, riego constante, suelos bien drenados.",
+        "imagen": "assets/images/tomate.jpg"
+    },
+    {
+        "cultivo": "Pepino",
+        "zona_climatica": "Zona Sur",
+        "meses_siembra": [
+            "Enero",
+            "Febrero",
+            "Marzo"
+        ],
+        "meses_cosecha": [
+            "Mayo",
+            "Junio",
+            "Julio"
+        ],
+        "requerimientos": "Clima cálido, riego constante, suelos bien drenados.",
+        "imagen": "assets/images/pepino.jpg"
+    },
+    {
+        "cultivo": "Cacao",
+        "zona_climatica": "Zona Sur",
+        "meses_siembra": [
+            "Enero",
+            "Febrero",
+            "Marzo"
+        ],
+        "meses_cosecha": [
+            "Septiembre",
+            "Octubre",
+            "Noviembre"
+        ],
+        "requerimientos": "Clima tropical, suelos húmedos y ricos en nutrientes.",
+        "imagen": "assets/images/cacao.jpg"
+    },
+    {
+        "cultivo": "Ganadería Bovina",
+        "zona_climatica": "Zona Norte",
+        "meses_siembra": [
+            "Todo el año"
+        ],
+        "meses_cosecha": [
+            "Todo el año"
+        ],
+        "requerimientos": "Granos, pasto de buena calidad, agua limpia y abundante.",
+        "imagen": "assets/images/ganaderia_bovina.jpg"
+    },
+    {
+        "cultivo": "Ganadería Porcina",
+        "zona_climatica": "Zona Este",
+        "meses_siembra": [
+            "Todo el año"
+        ],
+        "meses_cosecha": [
+            "Todo el año"
+        ],
+        "requerimientos": "Alimentos balanceados, agua limpia, instalaciones adecuadas.",
+        "imagen": "assets/images/ganaderia_porcina.jpg"
+    },
+    {
+        "cultivo": "Ganadería Avícola",
+        "zona_climatica": "Zona Este",
+        "meses_siembra": [
+            "Todo el año"
+        ],
+        "meses_cosecha": [
+            "Todo el año"
+        ],
+        "requerimientos": "Alimentos balanceados, agua limpia, manejo adecuado.",
+        "imagen": "assets/images/ganaderia_avicola.jpg"
+    },
+    {
+        "cultivo": "Cebollín",
+        "zona_climatica": "Zona Norte",
+        "meses_siembra": [
+            "Enero",
+            "Febrero",
+            "Marzo"
+        ],
+        "meses_cosecha": [
+            "Abril",
+            "Mayo",
+            "Junio"
+        ],
+        "requerimientos": "Clima templado, suelos bien drenados.",
+        "imagen": "assets/images/cebollin.jpg"
+    },
+    {
+        "cultivo": "Albahaca",
+        "zona_climatica": "Zona Sur",
+        "meses_siembra": [
+            "Enero",
+            "Febrero",
+            "Marzo"
+        ],
+        "meses_cosecha": [
+            "Abril",
+            "Mayo",
+            "Junio"
+        ],
+        "requerimientos": "Clima cálido, suelos bien drenados.",
+        "imagen": "assets/images/albahaca.jpg"
+    }
+]
