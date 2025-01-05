@@ -13,7 +13,7 @@
             "Septiembre"
         ],
         "requerimientos": "Riego constante, suelos inundables.",
-        "imagen": "https://raw.githubusercontent.com/mercwaretecnology/agrordservices/2c2188d1815fda15a47143e5f31b91e99a0af83d/assets/imgs/arroz.svg"
+        "imagen": "assets/images/arroz.svg"
     },
     {
         "cultivo": "Plátano",
