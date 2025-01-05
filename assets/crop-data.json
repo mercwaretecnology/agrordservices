@@ -105,7 +105,7 @@
             "Todo el año"
         ],
         "requerimientos": "Clima tropical, suelos ricos en nutrientes.",
-        "imagen": "https://raw.githubusercontent.com/mercwaretecnology/agrordservices/2c2188d1815fda15a47143e5f31b91e99a0af83d/assets/imgs/caoba.svg"
+        "imagen": "/imgs/caoba.svg"
     },
     {
         "cultivo": "Caña de azúcar",
