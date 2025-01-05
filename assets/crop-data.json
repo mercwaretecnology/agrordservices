@@ -13,7 +13,7 @@
             "Septiembre"
         ],
         "requerimientos": "Riego constante, suelos inundables.",
-        "imagen": "https://github.com/mercwaretecnology/agrordservices/blob/d2edbedb6bd13678ff09a3e56f5ab2d285758165/imgs/arroz.svg"
+        "imagen": "https://raw.githubusercontent.com/mercwaretecnology/agrordservices/main/imgs/arroz.svg"
     },
     {
         "cultivo": "Plátano",
@@ -29,7 +29,7 @@
             "Diciembre"
         ],
         "requerimientos": "Clima húmedo, protección contra vientos.",
-        "imagen": "https://github.com/mercwaretecnology/agrordservices/blob/d2edbedb6bd13678ff09a3e56f5ab2d285758165/imgs/banana.svg"
+        "imagen": "https://raw.githubusercontent.com/mercwaretecnology/agrordservices/main/imgs/banana.svg"
     },
     {
         "cultivo": "Cebolla",
@@ -45,7 +45,7 @@
             "Abril"
         ],
         "requerimientos": "Clima seco, suelos bien drenados.",
-        "imagen": "https://github.com/mercwaretecnology/agrordservices/blob/d2edbedb6bd13678ff09a3e56f5ab2d285758165/imgs/cebolla.svg"
+        "imagen": "https://raw.githubusercontent.com/mercwaretecnology/agrordservices/main/imgs/cebolla.svg"
     },
     {
         "cultivo": "Yuca",
@@ -61,7 +61,7 @@
             "Noviembre"
         ],
         "requerimientos": "Clima cálido, suelos bien drenados.",
-        "imagen": "https://github.com/mercwaretecnology/agrordservices/blob/d2edbedb6bd13678ff09a3e56f5ab2d285758165/imgs/yuca.svg"
+        "imagen": "https://raw.githubusercontent.com/mercwaretecnology/agrordservices/main/imgs/yuca.svg"
     },
     {
         "cultivo": "Mango",
@@ -77,7 +77,7 @@
             "Julio"
         ],
         "requerimientos": "Clima cálido, suelos bien drenados.",
-        "imagen": "https://github.com/mercwaretecnology/agrordservices/blob/d2edbedb6bd13678ff09a3e56f5ab2d285758165/imgs/mango.svg"
+        "imagen": "https://raw.githubusercontent.com/mercwaretecnology/agrordservices/main/imgs/mango.svg"
     },
     {
         "cultivo": "Piña",
@@ -93,7 +93,7 @@
             "Julio"
         ],
         "requerimientos": "Clima cálido, suelos bien drenados.",
-        "imagen": "https://github.com/mercwaretecnology/agrordservices/blob/d2edbedb6bd13678ff09a3e56f5ab2d285758165/imgs/pina.svg"
+        "imagen": "https://raw.githubusercontent.com/mercwaretecnology/agrordservices/main/imgs/pina.svg"
     },
     {
         "cultivo": "Caoba",
@@ -105,7 +105,7 @@
             "Todo el año"
         ],
         "requerimientos": "Clima tropical, suelos ricos en nutrientes.",
-        "imagen": "https://github.com/mercwaretecnology/agrordservices/blob/d2edbedb6bd13678ff09a3e56f5ab2d285758165/imgs/caoba.svg"
+        "imagen": "https://raw.githubusercontent.com/mercwaretecnology/agrordservices/main/imgs/caoba.svg"
     },
     {
         "cultivo": "Caña de azúcar",
@@ -121,7 +121,7 @@
             "Enero"
         ],
         "requerimientos": "Clima cálido, suelos fértiles, riego constante.",
-        "imagen": "https://github.com/mercwaretecnology/agrordservices/blob/d2edbedb6bd13678ff09a3e56f5ab2d285758165/imgs/cana.svg"
+        "imagen": "https://raw.githubusercontent.com/mercwaretecnology/agrordservices/main/imgs/cana.svg"
     },
     {
         "cultivo": "Aguacate",
@@ -137,7 +137,7 @@
             "Noviembre"
         ],
         "requerimientos": "Clima cálido, suelos bien drenados.",
-        "imagen": "https://github.com/mercwaretecnology/agrordservices/blob/d2edbedb6bd13678ff09a3e56f5ab2d285758165/imgs/aguacate.svg"
+        "imagen": "https://raw.githubusercontent.com/mercwaretecnology/agrordservices/main/imgs/aguacate.svg"
     },
     {
         "cultivo": "Fresas",
@@ -153,7 +153,7 @@
             "Mayo"
         ],
         "requerimientos": "Clima templado, suelos ricos en materia orgánica.",
-        "imagen": "https://github.com/mercwaretecnology/agrordservices/blob/d2edbedb6bd13678ff09a3e56f5ab2d285758165/imgs/fresas.svg"
+        "imagen": "https://raw.githubusercontent.com/mercwaretecnology/agrordservices/main/imgs/fresas.svg"
     },
     {
         "cultivo": "Pargo (Pesca)",
@@ -165,7 +165,7 @@
             "Todo el año"
         ],
         "requerimientos": "Pesca en zonas costeras.",
-        "imagen": "https://github.com/mercwaretecnology/agrordservices/blob/d2edbedb6bd13678ff09a3e56f5ab2d285758165/imgs/pargo.svg"
+        "imagen": "https://raw.githubusercontent.com/mercwaretecnology/agrordservices/main/imgs/pargo.svg"
     },
     {
         "cultivo": "Lechosa",
@@ -181,7 +181,7 @@
             "Julio"
         ],
         "requerimientos": "Clima cálido, suelos bien drenados.",
-        "imagen": "https://github.com/mercwaretecnology/agrordservices/blob/d2edbedb6bd13678ff09a3e56f5ab2d285758165/imgs/lechosa.svg"
+        "imagen": "https://raw.githubusercontent.com/mercwaretecnology/agrordservices/main/imgs/lechosa.svg"
     },
     {
         "cultivo": "Tomate",
@@ -198,7 +198,7 @@
             "Julio"
         ],
         "requerimientos": "Clima cálido, riego constante, suelos bien drenados.",
-        "imagen": "https://github.com/mercwaretecnology/agrordservices/blob/d2edbedb6bd13678ff09a3e56f5ab2d285758165/imgs/tomate.svg"
+        "imagen": "https://raw.githubusercontent.com/mercwaretecnology/agrordservices/main/imgs/tomate.svg"
     },
     {
         "cultivo": "Pepino",
@@ -214,7 +214,7 @@
             "Julio"
         ],
         "requerimientos": "Clima cálido, riego constante, suelos bien drenados.",
-        "imagen": "https://github.com/mercwaretecnology/agrordservices/blob/d2edbedb6bd13678ff09a3e56f5ab2d285758165/imgs/pepino.svg"
+        "imagen": "https://raw.githubusercontent.com/mercwaretecnology/agrordservices/main/imgs/pepino.svg"
     },
     {
         "cultivo": "Cacao",
@@ -230,7 +230,7 @@
             "Noviembre"
         ],
         "requerimientos": "Clima tropical, suelos húmedos y ricos en nutrientes.",
-        "imagen": "https://github.com/mercwaretecnology/agrordservices/blob/d2edbedb6bd13678ff09a3e56f5ab2d285758165/imgs/cacao.svg"
+        "imagen": "https://raw.githubusercontent.com/mercwaretecnology/agrordservices/main/imgs/cacao.svg"
     },
     {
         "cultivo": "Ganadería Bovina",
@@ -242,7 +242,7 @@
             "Todo el año"
         ],
         "requerimientos": "Granos, pasto de buena calidad, agua limpia y abundante.",
-        "imagen": "https://github.com/mercwaretecnology/agrordservices/blob/d2edbedb6bd13678ff09a3e56f5ab2d285758165/imgs/bovina.svg"
+        "imagen": "https://raw.githubusercontent.com/mercwaretecnology/agrordservices/main/imgs/bovina.svg"
     },
     {
         "cultivo": "Ganadería Porcina",
@@ -254,7 +254,7 @@
             "Todo el año"
         ],
         "requerimientos": "Alimentos balanceados, agua limpia, instalaciones adecuadas.",
-        "imagen": "https://github.com/mercwaretecnology/agrordservices/blob/d2edbedb6bd13678ff09a3e56f5ab2d285758165/imgs/cerdo.svg"
+        "imagen": "https://raw.githubusercontent.com/mercwaretecnology/agrordservices/main/imgs/cerdo.svg"
     },
     {
         "cultivo": "Ganadería Avícola",
@@ -266,7 +266,7 @@
             "Todo el año"
         ],
         "requerimientos": "Alimentos balanceados, agua limpia, manejo adecuado.",
-        "imagen": "https://github.com/mercwaretecnology/agrordservices/blob/d2edbedb6bd13678ff09a3e56f5ab2d285758165/imgs/avicola.svg"
+        "imagen": "https://raw.githubusercontent.com/mercwaretecnology/agrordservices/main/imgs/avicola.svg"
     },
     {
         "cultivo": "Cebollín",
@@ -282,7 +282,7 @@
             "Junio"
         ],
         "requerimientos": "Clima templado, suelos bien drenados.",
-        "imagen": "https://github.com/mercwaretecnology/agrordservices/blob/d2edbedb6bd13678ff09a3e56f5ab2d285758165/imgs/cebollin.svg"
+        "imagen": "https://raw.githubusercontent.com/mercwaretecnology/agrordservices/main/imgs/cebollin.svg"
     },
     {
         "cultivo": "Albahaca",
@@ -298,6 +298,6 @@
             "Junio"
         ],
         "requerimientos": "Clima cálido, suelos bien drenados.",
-        "imagen": "https://github.com/mercwaretecnology/agrordservices/blob/d2edbedb6bd13678ff09a3e56f5ab2d285758165/imgs/albahaca.svg"
+        "imagen": "https://raw.githubusercontent.com/mercwaretecnology/agrordservices/main/imgs/albahaca.svg"
     }
 ]
