@@ -105,7 +105,7 @@
             "Todo el año"
         ],
         "requerimientos": "Clima tropical, suelos ricos en nutrientes.",
-        "imagen": "/imgs/caoba.svg"
+        "imagen": "https://github.com/mercwaretecnology/agrordservices/blob/59e7e4eab66718c07eb5907d154decab5dafb9dd/assets/imgs/caoba.svg"
     },
     {
         "cultivo": "Caña de azúcar",
@@ -121,7 +121,7 @@
             "Enero"
         ],
         "requerimientos": "Clima cálido, suelos fértiles, riego constante.",
-        "imagen": "https://raw.githubusercontent.com/mercwaretecnology/agrordservices/2c2188d1815fda15a47143e5f31b91e99a0af83d/assets/imgs/cana_de_azucar.svg"
+        "imagen": "https://github.com/mercwaretecnology/agrordservices/blob/59e7e4eab66718c07eb5907d154decab5dafb9dd/assets/imgs/cana_de_azucar.svg"
     },
     {
         "cultivo": "Aguacate",
@@ -137,7 +137,7 @@
             "Noviembre"
         ],
         "requerimientos": "Clima cálido, suelos bien drenados.",
-        "imagen": "https://github.com/mercwaretecnology/agrordservices/blob/5fd7d9caae431101d3dd89faf9ccaf71be23d80e/assets/imgs/aguacate.svg"
+        "imagen": "https://github.com/mercwaretecnology/agrordservices/blob/59e7e4eab66718c07eb5907d154decab5dafb9dd/assets/imgs/aguacate.svg"
         
     },
     {
@@ -154,7 +154,7 @@
             "Mayo"
         ],
         "requerimientos": "Clima templado, suelos ricos en materia orgánica.",
-        "imagen": "https://raw.githubusercontent.com/mercwaretecnology/agrordservices/2c2188d1815fda15a47143e5f31b91e99a0af83d/assets/imgs/fresas.svg"
+        "imagen": "https://github.com/mercwaretecnology/agrordservices/blob/59e7e4eab66718c07eb5907d154decab5dafb9dd/assets/imgs/fresas.svg"
     },
     {
         "cultivo": "Pargo (Pesca)",
@@ -182,7 +182,7 @@
             "Julio"
         ],
         "requerimientos": "Clima cálido, suelos bien drenados.",
-        "imagen": "https://raw.githubusercontent.com/mercwaretecnology/agrordservices/2c2188d1815fda15a47143e5f31b91e99a0af83d/assets/imgs/lechosa.svg"
+        "imagen": "https://github.com/mercwaretecnology/agrordservices/blob/59e7e4eab66718c07eb5907d154decab5dafb9dd/assets/imgs/lechosa.svg"
     },
     {
         "cultivo": "Tomate",
