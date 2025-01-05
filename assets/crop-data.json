@@ -283,7 +283,7 @@
             "Junio"
         ],
         "requerimientos": "Clima templado, suelos bien drenados.",
-        "imagen": "/imgs/cebollin.svg"
+        "imagen": "https://raw.githubusercontent.com/mercwaretecnology/agrordservices/2c2188d1815fda15a47143e5f31b91e99a0af83d/assets/imgs/cebolla-verde.svg"
     },
     {
         "cultivo": "Albahaca",
