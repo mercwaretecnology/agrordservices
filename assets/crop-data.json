@@ -29,7 +29,7 @@
             "Diciembre"
         ],
         "requerimientos": "Clima húmedo, protección contra vientos.",
-        "imagen": "https://raw.githubusercontent.com/mercwaretecnology/agrordservices/2c2188d1815fda15a47143e5f31b91e99a0af83d/assets/imgs/banana.svg"
+        "imagen": "assets/images/banana.svg"
     },
     {
         "cultivo": "Cebolla",
@@ -105,7 +105,7 @@
             "Todo el año"
         ],
         "requerimientos": "Clima tropical, suelos ricos en nutrientes.",
-        "imagen": "https://raw.githubusercontent.com/mercwaretecnology/agrordservices/refs/heads/main/assets/imgs/caoba.svg"
+        "imagen": "assets/images/caoba.svg"
     },
     {
         "cultivo": "Caña de azúcar",
@@ -121,7 +121,7 @@
             "Enero"
         ],
         "requerimientos": "Clima cálido, suelos fértiles, riego constante.",
-        "imagen": "https://github.com/mercwaretecnology/agrordservices/blob/59e7e4eab66718c07eb5907d154decab5dafb9dd/assets/imgs/cana_de_azucar.svg"
+        "imagen": "assets/images/cana_de_azucar.svg"
     },
     {
         "cultivo": "Aguacate",
@@ -137,7 +137,7 @@
             "Noviembre"
         ],
         "requerimientos": "Clima cálido, suelos bien drenados.",
-        "imagen": "https://github.com/mercwaretecnology/agrordservices/blob/59e7e4eab66718c07eb5907d154decab5dafb9dd/assets/imgs/aguacate.svg"
+        "imagen": "assets/images/aguacate.svg"
         
     },
     {
